@@ -8,7 +8,7 @@
 >
 > Open Source
 > 
-> Looping & sound controll
+> Looping & sound control
 ---
 # How to use
 You can visit the online version [here](https://thekoneko.github.io/music), with the soundtrack of the game *[Gunpoint](https://store.steampowered.com/app/206190/Gunpoint/)* on it. But you can also put your own custom songs and listen localy.
