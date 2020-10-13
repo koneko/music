@@ -1,0 +1,56 @@
+body {
+    background: radial-gradient(rgb(72, 63, 104), rgb(62, 111, 112));
+    font-size: 1.2em;
+    width: 50%;
+    margin: 20px auto;
+    padding:20px;
+    text-align: center;
+    min-height: 50vh;
+}
+#songList {
+    background: lightsteelblue;
+    border-radius: 10px;
+    text-align: left;
+}
+#betteraudio {
+    background: lightblue;
+    border-radius: 10px;
+    text-align: center;
+}
+li {
+    padding: 15px;
+
+}
+li:hover, svg:hover {
+    cursor: pointer;
+}
+li, span, h4, h1 {
+    color: white;
+}
+#controls {
+    border: 1px lightgray solid; 
+    border-radius: 10px;
+    background: lightsteelblue;
+    padding: 1.5em;
+}
+svg {
+    color: lightslategray;
+}
+progress {
+    width: 80%;
+    margin: 10px;
+}
+p {
+    color: white;
+}
+#extra {
+    color:lightslategray;
+    background-color:lightgray;
+    padding: 0.5cm;
+    border-color:lightsteelblue;
+}
+
+#progress {
+    color: black;
+}
+/*Created by ControledYT*/
