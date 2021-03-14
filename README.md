@@ -1,5 +1,6 @@
 # music
 ## The simple javascript and html music player.
+*Note: This music player is deprecated and not the best it can be, if you want the best it can be, then go to [homecat](https://github.com/koneko/homecat/)'s music player.*
 ---
 # Features
 > Custom songs
